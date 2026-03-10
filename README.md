@@ -1,9 +1,10 @@
 ## 31_Java
 
 
-- **[01_Note](./01_Notes/01_Notes.md)**:笔记
-- **[_Project_Ref]()**:引用项目
-- **[99_Resourses](../31_Java/99_Resourses/_Resourses.md)**:资料
+- **[10_Note](./10_Notes/README.md)**: 理论与笔记
+- **[20_Program](./20_Programs/README.MD)**:代码沙盒区
+- **[30_Projects](./30_Projects/README.md)**:综合实战区
+- **[99_Resourses](../31_Java/99_Resourses/README.md)**:参考资料
 
 ---
 
